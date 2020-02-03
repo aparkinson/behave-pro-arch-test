@@ -11,3 +11,6 @@ Feature: New
 
   @ORPHAN @GIT-2
   Scenario: fourth
+
+  @ORPHAN @GIT-2
+  Scenario: fifth
