@@ -8,3 +8,6 @@ Feature: New
 
   @ORPHAN @GIT-2
   Scenario: Third
+
+  @ORPHAN @GIT-2
+  Scenario: fourth
