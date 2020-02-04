@@ -1,4 +1,4 @@
 Feature: Create feature on issue view
 
-  @ORPHAN
+  @CG-1 @OPEN
   Scenario: New scenario
