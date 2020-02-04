@@ -15,5 +15,5 @@ Feature: My first feature
   @CG-1 @OPEN
   Scenario: firth
 
-  @ORPHAN
+  @CG-1 @OPEN
   Scenario: sixth
