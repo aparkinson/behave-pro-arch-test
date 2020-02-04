@@ -8,3 +8,6 @@ Feature: My first feature
 
   @CG-1 @OPEN
   Scenario: Third
+
+  @ORPHAN
+  Scenario: fourth
