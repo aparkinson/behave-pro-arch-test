@@ -22,5 +22,5 @@ Feature: My first feature
   @CG-1 @OPEN
   Scenario: Eight
 
-  @ORPHAN
+  @CG-1 @OPEN
   Scenario: nine
