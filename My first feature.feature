@@ -5,3 +5,6 @@ Feature: My first feature
 
   @ORPHAN
   Scenario: Second
+
+  @ORPHAN
+  Scenario: Third
