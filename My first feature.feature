@@ -3,7 +3,7 @@ Feature: My first feature
   @CG-1 @OPEN
   Scenario: Second
 
-  @CG-1 @OPEN
+  @CG-1 @OPEN @Manual
   Scenario: Third
     Given a step
 
