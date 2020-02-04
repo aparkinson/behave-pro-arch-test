@@ -3,7 +3,7 @@ Feature: My first feature
   @CG-1 @OPEN
   Scenario: First
 
-  @ORPHAN
+  @CG-1 @OPEN
   Scenario: Second
 
   @ORPHAN
