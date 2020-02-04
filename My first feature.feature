@@ -1,6 +1,6 @@
 Feature: My first feature
 
-  @ORPHAN
+  @CG-1 @OPEN
   Scenario: First
 
   @ORPHAN
